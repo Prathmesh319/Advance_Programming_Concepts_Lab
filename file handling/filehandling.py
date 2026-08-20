@@ -1,6 +1,6 @@
 # Writing data into a file
 with open("student.txt", "w") as file:
-    file.write("Hello, my name is Shruti.\n")
+    file.write("Hello, my name is Prathmesh.\n")
     file.write("I am learning Computer Science.\n")
     file.write("Computer Science is easy to learn and interesting to study .")
 
